@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New ASMLRequest</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>ASMLRequest</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">8d67bb19972331108c10bdc3f153afa0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>dale.dunkerley@snc</sys_created_by>
+        <sys_created_on>2025-01-17 17:19:51</sys_created_on>
+        <sys_id>69e95a5bc3471210580b114ed4013129</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASMLRequest</sys_name>
+        <sys_package display_value="ASML Source control " source="x_snc_asml_sourc_0">b399165bc3471210580b114ed4013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASML Source control ">b399165bc3471210580b114ed4013171</sys_scope>
+        <sys_update_name>sys_wizard_answer_69e95a5bc3471210580b114ed4013129</sys_update_name>
+        <sys_updated_by>dale.dunkerley@snc</sys_updated_by>
+        <sys_updated_on>2025-01-17 17:19:51</sys_updated_on>
+        <table/>
+        <target_url>x_snc_asml_sourc_0_asmlrequest.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

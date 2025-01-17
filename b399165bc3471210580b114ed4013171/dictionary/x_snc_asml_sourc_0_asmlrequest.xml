@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a1e95a5bc3471210580b114ed401310e" extends="task" label="ASMLRequest" max_length="40" name="x_snc_asml_sourc_0_asmlrequest" type="collection">
+        <element choice="1" label="Question2" max_length="40" name="question2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="choice_2"/>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="choice_1"/>
+            </choice>
+        </element>
+        <element label="Question1" max_length="40" name="question1" type="string"/>
+    </element>
+</database>
