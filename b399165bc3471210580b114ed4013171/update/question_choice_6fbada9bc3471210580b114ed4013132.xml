@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Question2">db8a1a9bc3471210580b114ed4013177</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>dale.dunkerley@snc</sys_created_by>
+        <sys_created_on>2025-01-17 17:23:32</sys_created_on>
+        <sys_id>6fbada9bc3471210580b114ed4013132</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Choice 2</sys_name>
+        <sys_package display_value="ASML Source control " source="x_snc_asml_sourc_0">b399165bc3471210580b114ed4013171</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASML Source control ">b399165bc3471210580b114ed4013171</sys_scope>
+        <sys_update_name>question_choice_6fbada9bc3471210580b114ed4013132</sys_update_name>
+        <sys_updated_by>dale.dunkerley@snc</sys_updated_by>
+        <sys_updated_on>2025-01-17 17:23:32</sys_updated_on>
+        <text>Choice 2</text>
+        <value>choice_2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=6fbada9bc3471210580b114ed4013132"/>
+</record_update>
